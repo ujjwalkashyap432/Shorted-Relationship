@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>shortrelationship</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f5f3ff;
+      color: #241b3b;
+      display: grid;
+      place-items: center;
+      min-height: 100vh;
+    }
+    main {
+      background: white;
+      padding: 32px;
+      margin: 20px;
+      border-radius: 20px;
+      max-width: 360px;
+      width: calc(100% - 104px);
+      box-shadow: 0 10px 35px #241b3b12;
+      text-align: center;
+    }
+    h1 { color: #6d28d9; }
+    p { color: #665e75; line-height: 1.6; }
+    a {
+      display: block;
+      background: #6d28d9;
+      color: white;
+      text-decoration: none;
+      padding: 14px;
+      border-radius: 10px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>shortrelationship</h1>
+    <p>A private platform for managing male and female accounts.</p>
+    <p>Secure account access and an administrator dashboard are coming next.</p>
+    <a href="mailto:admin@shortrelationship.example">Contact Admin</a>
+  </main>
+</body>
+</html>
+index.html.
